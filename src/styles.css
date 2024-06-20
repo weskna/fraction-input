@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input {
+  background: #a2d2ff;
+}
+
+.input-child {
+  background: #ffc8dd;
+}
