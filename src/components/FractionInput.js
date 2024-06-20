@@ -1,4 +1,4 @@
-const FractionInput = ({ data, onChange }) => {
+const FractionInput = ({ data, onChange, errors }) => {
   const handleInputChange = (e) => {
     const value = parseInt(e.target.value);
     if (value > 0) {
